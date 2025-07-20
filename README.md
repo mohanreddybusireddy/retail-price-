@@ -22,7 +22,7 @@ RETAIL PRICE OPTIMIZATION
 HOW TO RUN THE CODE
 
  ● Step1:Instaltherequiredlibrariesif not already insta led:
- Code: pipinstall pandas numpy matplotlib seaborn scikit-learn
+     Code: pipinstall pandas numpy matplotlib seaborn scikit-learn
  ● Step2:SavethecodeinaPythonfile(e.g., retail_price_optimization.py).
 ● Step3:Replace 'path_to_your_dataset.csv' withtheactualpathtoyour dataset.
  ● Step4:RunthescriptusingPython:
